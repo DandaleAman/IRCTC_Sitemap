@@ -1,1 +1,1 @@
-IRCTC_Sitemap in zip format
+IRCTC_Sitemap files
