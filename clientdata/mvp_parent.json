@@ -1,0 +1,452 @@
+{
+    "PARENT_OVERRIDE":{
+        "OVERRIDE": true,
+        "VALUE": true
+    },
+    "ALLOWED_CLIENTS":{
+        "OVERRIDE": true,
+        "VALUE":[
+            {
+                "IS_ENABLE": true,
+                "INCLUDE": false,
+                "JSON_FLAG_NAME": "CUSTOM_AD_DELAY",
+                "CLIENTS_LIST": ["indianrail.gov.in_1689164825698", "irctc.co.in_1712646358600"]
+            },
+            {
+                "IS_ENABLE": true,
+                "INCLUDE": false,
+                "JSON_FLAG_NAME": "CLICK_TO_PLAY",
+                "CLIENTS_LIST": ["affsamakalikamalayalam.com_1719903467266", "gomantaktimes.com_1703140511658", "agrowon.esakalcom_1716444781671", "saamtv.esakalcom_1715168619544", "sarkarnama.esakalcom_1719474240813", "dainikgomantak.esakalcom_1719488321340", "esakal.com_1698670145150", "dnaindia.com_1720183105634","affhindutamil.in_1719302207996", "thairath.co.th_1719562896847", "janamtv.com_1710164741247", "download.vn_1689161836113", "truyenwikidich.net_1712043349518", "ctinews.com_1708583983044", "vietjack.com_1695730930294", "blogtobollywood.com_1706090418102", "veganab.co_1680506974368", "suckhoedoisong.vn_1701506251479", "fandom.com_1698820872714", "bestwordlist.com_1699073031984", "hindustantime.com_1700631903972", "realgm.com_1701065874613", "marca.com_1701936332435", "sportskeeda.com_1702028501733", "elmundo.es_1703135466446", "webmd.com_1704350789842", "emedicinehealth.com_1707475256056", "rxlist.com_1707475759761", "medicinenet.com_1707476156123", "drudgereport.com_1707819023427", "sport.es_1707822333210", "yasss.es_1709100809829", "theepochtimes.com_1709618817805", "paltalk1.com_1709721359858", "sofascore.com_1709800427610", "mundonow.com_1709964820919", "tvguide.com_1710235271892", "hercampus.com_1710236603663", "listal.com_1711171407886", "thebrighterside.news_1711621062197", "stylecraze.com_1712223277124", "modhub.us_1712224505142", "fitnesssidea.com_1712226412759", "momjunction.com_1712393652883", "rumores.pt_1712394860053", "telecinco.es_1713250283684", "escaladenotas.cl_1714039994480", "elnorte.com_1714040992560", "diariodeltriatlon.es_1714041738327", "tvazteca.com_1714042649735", "udocz.com_1714043524062", "moto.it_1714046183871", "mundodeportivo.com_1714109294654", "deia.eus_1714732840126", "mowmag.com_1714733875289", "vetrinamotori.it_1714735426107", "equibase.com_1714814594582", "tomshw.it_1714817529197", "cookingfanatic.com_1715582264492", "spaziogames.it_1715584771383", "tweaksforgeeks.com_1715585663522", "automoto.it_1715935446176", "cpop.it_1715938702295", "listanza.com_1715939439417", "athleticia.net_1716017602806", "animalia.bio_1716020013984", "tandie.co.uk_1716202059876","hockeydb.com_1716204964912", "wowhead.com_1716273962598", "gazzettaregionale.it_1716805500610","hiplatinos.com_1716804262023", "lavocediasti.it_1716968024425", "vikatan.com_1694686207810", "player.test_1695896954516", "kosmo.com.my_1720176956002", "samakalikamalayalam.com_1702533547919"]
+            },
+            {
+                "IS_ENABLE": true,
+                "INCLUDE": false,
+                "JSON_FLAG_NAME": "RUN_MULTI_PLAYER",
+                "CLIENTS_LIST": ["thani-nadan.in_1690446770032", "zaly.online_1688988571160", "jackiepost365.com_1701336396326", "yega.online_1701430653452", "danhngon.pro_1695638720383"]
+            },
+            {
+                "IS_ENABLE": true,
+                "INCLUDE": true,
+                "JSON_FLAG_NAME": "SCRIPT_TEST_LEVEL",
+                "CLIENTS_LIST": ["bestwordlist.com_1699073031984", "hindustantime.com_1700631903972", "realgm.com_1701065874613", "marca.com_1701936332435", "sportskeeda.com_1702028501733", "elmundo.es_1703135466446", "emedicinehealth.com_1707475256056", "rxlist.com_1707475759761", "medicinenet.com_1707476156123", "drudgereport.com_1707819023427", "yasss.es_1709100809829", "theepochtimes.com_1709618817805", "paltalk1.com_1709721359858", "sofascore.com_1709800427610", "mundonow.com_1709964820919", "tvguide.com_1710235271892", "hercampus.com_1710236603663", "listal.com_1711171407886", "thebrighterside.news_1711621062197", "stylecraze.com_1712223277124", "modhub.us_1712224505142", "fitnesssidea.com_1712226412759", "momjunction.com_1712393652883", "rumores.pt_1712394860053", "telecinco.es_1713250283684", "escaladenotas.cl_1714039994480", "elnorte.com_1714040992560", "diariodeltriatlon.es_1714041738327", "tvazteca.com_1714042649735", "udocz.com_1714043524062", "moto.it_1714046183871", "mundodeportivo.com_1714109294654", "deia.eus_1714732840126", "mowmag.com_1714733875289", "vetrinamotori.it_1714735426107", "equibase.com_1714814594582", "tomshw.it_1714817529197", "cookingfanatic.com_1715582264492", "spaziogames.it_1715584771383", "tweaksforgeeks.com_1715585663522", "automoto.it_1715935446176", "cpop.it_1715938702295", "listanza.com_1715939439417", "athleticia.net_1716017602806", "animalia.bio_1716020013984", "tandie.co.uk_1716202059876","hockeydb.com_1716204964912", "wowhead.com_1716273962598", "gazzettaregionale.it_1716805500610","hiplatinos.com_1716804262023", "lavocediasti.it_1716968024425"]
+            }
+        ]
+    },
+    "DIRECT_CAMPAIGN": {
+        "OVERRIDE": false,
+        "VALUE":{
+            "IS_ENABLE": true,
+            "AD_TAGS": [
+                {
+                    "TAG":  "https://pubads.g.doubleclick.net/gampad/ads?iu=/21956238066/DC_Digiday_Video&description_url=http%3A%2F%2Ftimesnownews.com&url=http%3A%2F%2Ftimesnownews.com&tfcd=0&npa=0&sz=640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
+                    "GEO": {
+                        "IS_ENABLE": true,
+                        "ALLOWED": ["IN"],
+                        "NOT_ALLOWED": []
+                    },
+                    "TAG_POSITIONS": [3],
+                    "CUST_PARAM": false
+                } 
+            ]
+        }
+    },
+    "UBP_DEBUG": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "DISABLE_LOGS": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "IGNORE_POLICY_CHNAGE": {
+        "OVERRIDE": false,
+        "IS_ENABLE": false
+    },
+    "AS_PER_NEW_POLICY": {
+        "OVERRIDE": false,
+        "VALUE": true
+    },
+    "LOAD_PL_WITH_DELAY": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "LOAD_VD_TIMEOUT": {
+        "OVERRIDE": false,
+        "VALUE": 8000
+    },
+    "PREROLL_TIMEOUT": {
+        "OVERRIDE": false,
+        "VALUE": 8000
+    },
+    "CHANGE_PREROLL_TIMEOUT":{
+        "OVERRIDE": false,
+        "VALUE": {
+            "IS_ENABLE": false,
+            "BEFORE_VIEWPORT": 5000,
+            "AFTER_VIEWPORT": 5000
+        }
+    },
+    "RUN_MULTI_PLAYER": {
+        "OVERRIDE": true,
+        "VALUE": false
+    },
+    "MULTI_CLIENT_NAME_1": {
+        "OVERRIDE": false,
+        "VALUE": "gujjurocks.in_1691149734860"
+    },
+    "MULTI_CLIENT_NAME_2": {
+        "OVERRIDE": false,
+        "VALUE": "moddingunited.xyz_1680003618705"
+    },
+    "ENABLE_MVP_PLAYER": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "MVP_CLIENT_NAME": {
+        "OVERRIDE": false,
+        "VALUE": "gujjurocks.in_1691149734860"
+    },
+    "NON_COMPLIANCE_PLAYER" : {
+        "OVERRIDE": false,
+        "VALUE": {
+            "IS_ENABLE" : false
+        }
+    },
+    "VPMUTE": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "CLARITY_CODE":{
+        "OVERRIDE": false,
+        "VALUE": "''"
+    },
+    "SKIP_VIDEO_CONTENT_ON_START": {
+        "OVERRIDE": false,
+        "VALUE": 10
+    },
+    "ENABLE_AD_TRACKING": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "STICKY_TOP": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "FLOAT_ONCE_PER_USER": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "FLOAT_ABOVE_VIEW": {
+        "OVERRIDE": false,
+        "VALUE":false
+    },
+    "PLAYER_FLOATING": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "IS_FLOATING_ON_MOBILE": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "FLOATING_ONLY_AFTER_INVIEW": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "FLOATING_ONLY_AFTER_INVIEW_MB": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "STICKY_POSITION": {
+        "OVERRIDE": false,
+        "VALUE": "right"
+    },
+    "FLOATING_POSITION_MB": {
+        "OVERRIDE": false,
+        "VALUE": "left"
+    },
+    "SHORT_TIME_FLOATING": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "ENABLED_FOR_PC": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "ENABLED_FOR_MB": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "SCRIPT_TEST_LEVEL": {
+        "OVERRIDE": true,
+        "VALUE": 1
+    },
+    "PLAYER_WIDTH": {
+        "OVERRIDE": false,
+        "VALUE": 640
+    },
+    "PLAYER_HEIGHT": {
+        "OVERRIDE": false,
+        "VALUE": 360
+    },
+    "PLAYER_WIDTH_MB": {
+        "OVERRIDE": false,
+        "VALUE": 400
+    },
+    "PLAYER_HEIGHT_MB": {
+        "OVERRIDE": false,
+        "VALUE": 225
+    },
+    "DFP_CLIENT": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "VIDEO_DYNAMIC": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "VIDEO_DYNAMIC_API" : {
+        "OVERRIDE": false,
+        "VALUE":"https://newsbot.unibots.in/get_videos/ubpvideos"
+    },
+    "VIDEO_SRC_DEFAULT": {
+        "OVERRIDE": false,
+        "VALUE": "https://stream.unibotscdn.com/25acc3a8-9b3c-41a6-92f3-216becb358f6/playlist.m3u8"
+    },
+    "DIV_ID_CLASS": {
+        "OVERRIDE": false,
+        "VALUE": []
+    },
+    "IFRAME_PLAYER": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "AUTO_DIV": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "CLIENTSITE_TARGETED_DIV_ID_CLASSES": {
+        "OVERRIDE": false,
+        "VALUE": ""
+    },
+    "PL_BUTTON_ENABLE": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "PL_BUTTON_LINK": {
+        "OVERRIDE": false,
+        "VALUE": ""
+    },
+    "LOGO_ENABLE": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "LOGO_ENABLE_MB": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "CUSTOM_AD_DELAY": {
+        "OVERRIDE": true,
+        "VALUE": "0.3"
+    },
+    "REQUEST_SINGLE_AD": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "CLOSE_BUTTON_ENABLE": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "CLOSE_BUTTON_ENABLE_MB": {
+        "OVERRIDE": false,
+        "VALUE":true
+    },
+    "CLOSE_BUTTON_DISPOSE_PLAYER": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "IS_PERMANENT_STICKY": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "IS_PERMANENT_STICKY_POSITION": {
+        "OVERRIDE": false,
+        "VALUE": "right"
+    },
+    "IS_PERMANENT_STICKY_POSITION_MB": {
+        "OVERRIDE": false,
+        "VALUE": "right"
+    },
+    "CHECK_BLOCKED_PAGES": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "RUN_CUSTOM_JS_BEFORE_BLOCK_CHECK": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "RECREATE_PLAYER": {
+        "OVERRIDE": true,
+        "VALUE": false
+    },
+    "USE_OF_CUSTOM_CSS": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "NEW_CUSTOM_CSS_MODULE": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "IS_FLOATING_BLOCK_ON_SOME_URLS": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "FLOATING_BLOCKED_URL": {
+        "OVERRIDE": false,
+        "VALUE": ""
+    },
+    "PLAYER_BLOCKED_URL": {
+        "OVERRIDE": false,
+        "VALUE": []
+    },
+    "PL_RUN_AFTER_PAGE_SCROLL": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "REQUIRED_SCROLL_FOR_PL_RUN": {
+        "OVERRIDE": false,
+        "VALUE": 100
+    },
+    "AD_MODE": {
+        "OVERRIDE": false,
+        "VALUE": "test"
+    },
+    "CHILL_MODE": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "AD_REQUEST_TYPE": {
+        "OVERRIDE": false,
+        "VALUE": "new"
+    },
+    "NEW_AD_REQUEST_VERSION": {
+        "OVERRIDE": false,
+        "VALUE": 3
+    },
+    "AD_DELAY_ENABLED": {
+        "OVERRIDE": false,
+        "VALUE": true
+    },
+    "BLOCK_GEO_LOCATION": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "GEO_LOCATIONS_TO_BLOCK": {
+        "OVERRIDE": false,
+        "VALUE": []
+    },
+    "AD_DELAY_DURATIONS": {
+        "OVERRIDE": false,
+        "VALUE": [
+            900,
+            30,
+            900
+        ]
+    },
+    "CHANGE_DEALY_DURATIONS_FOR_UNFILL_REQUESTS": {
+        "OVERRIDE": false,
+        "VALUE": {
+            "IS_ENABLE": false,
+            "AFTER": 5
+        }
+    },
+    "MANAGE_DEALY_FOR_UNFILL_REQUESTS" : {
+        "OVERRIDE": false,
+        "VALUE": {
+            "IS_ENABLE" : false,
+            "AFTER" : 2,
+            "DELAY" : 10,
+            "DEFAULT" : 0.5,
+            "PASSBACK_URL" : "",
+            "4C_COMPAITABLE" : true
+        }
+    },
+    "AD_PLAY_VERSION": {
+        "OVERRIDE": false,
+        "VALUE": 4
+    },
+    "AD_PLAY_DURATION_VERSION": {
+        "OVERRIDE": false,
+        "VALUE": 2
+    },
+    "ENABLE_MAX_AD_DURATION": {
+        "OVERRIDE": false,
+        "VALUE": true
+    },
+    "TEST_MODULES": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "HLS_ENABLED": {
+        "OVERRIDE": false,
+        "VALUE": true
+    },
+    "Edit_Warning": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "CUSTOM_JS": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "STICKY_ONCE_VIEWED": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "HIDE_CLOSE_BTN_INREAD": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "AD_TAGS_SHUFFLING": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "AD_REQUEST_DURATION": {
+        "OVERRIDE": false,
+        "VALUE": 0
+    },
+    "AD_POD_REQUEST": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "RUN_PLAY_ONLY_NEARBY_VIEWPORT" : {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "REACT_SITE": {
+        "OVERRIDE": false,
+        "VALUE": false
+    },
+    "CLICK_TO_PLAY": {
+        "OVERRIDE": true,
+        "VALUE": {
+            "IS_ENABLE" : true,
+            "WAITING" : 2,
+            "FLOAT_BEFORE_INVIEW": false,
+            "KEEP_FLOAT_AFTER_AUTOPLAY" : false
+        }
+    },
+    "STICKY_TOP_CUSTOM":{
+        "OVERRIDE": false,
+        "VALUE":{
+            "TOP_CUSTOM": false,
+            "FLOAT_WITH_CONTENT": false,
+            "STICKY_PLAYER_WIDTH":"192",
+            "STICKY_PLAYER_HEIGHT":"108",
+            "TEXT_DIV_BACKGROUND_COLOUR":"white",
+            "CONTENT_TEXT":"Enjoy Premium Entertanment, Fashion and Life stories",
+            "CONTENT_TEXT_COLOUR":"black",
+            "VIDEO_TITLE":"iFORHER",
+            "VIDEO_TITLE_COLOUR":"red"
+        }
+    }
+}
